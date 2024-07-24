@@ -1,0 +1,15 @@
+; <?php exit; ?>
+MYSQL_HOST = "contravel.com.mx"
+MYSQL_DATABASE_NAME = "contrave_hoteles"
+MYSQL_USER = "contrave_user"
+MYSQL_PASSWORD = "con$user$travel21"
+MYSQL_PORT = 3306
+MYSQL_DATABASE_NAME_ADMIN = "contraveL_admin"
+SYBASE_DSN = "icaavcapa"
+SYBASE_USER= "dash"
+SYBASE_PASSWORD = "admin"
+MYSQL_TEST_HOST = "contravel.com.mx"
+MYSQL_TEST_NAME = "contravel_seguimiento_fact"
+MYSQL_TEST_USER = "contravel_desarrollo_ctrvl"
+MYSQL_TEST_PASSWORD = "j8HgA;3n.qI="
+MYSQL_TEST_PORT = "3306"
